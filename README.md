@@ -1,6 +1,6 @@
 # calendar
 
-A new Flutter application.
+A Meeting Scheduling Flutter application.
 
 ## Getting Started
 
